@@ -1,7 +1,6 @@
 ## 🧬 Projeto X-DEVS
 
-
-###💡 Foco na funcionalidade e interatividade
+### 💡 Foco na funcionalidade e interatividade
 
 Este projeto foi desenvolvido utilizando as tecnologias fundamentais da web: HTML, CSS e JavaScript, cujo o objetivo principal era aprender as aplicações básicas dessas tecnologias .
 
